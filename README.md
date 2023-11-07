@@ -34,10 +34,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -150,9 +146,9 @@ In this project, there was 1 junior developer from Codecool: Toma Tamás
 [LinkedIn - Tamás]: https://www.linkedin.com/in/tomatams/
 
 [microsoftPowerPoint.js]: https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white
+[microsoftPowerPoint-url]: https://github.com/tomatams/locationByWifiC/tree/main/presentations
 
-[C++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[C++.js]]:
+[C++.js]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [C++-url]: https://en.wikipedia.org/wiki/C%2B%2B
 
 [GoogleSlides.js]: https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
