@@ -32,11 +32,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -96,23 +92,6 @@ The project is under development.
 The project is under development.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-<div id="contributing"></div>
-
-## Contributing
-
-In this project, there was 1 junior developer from Codecool: Toma Tamás 
-<br />
-<br />
-:heavy_check_mark: **Tamás** worked on everything.
-<br />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- CONTACT -->
